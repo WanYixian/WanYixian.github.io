@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "My homepage"
+title                    : "Iris Wan homepage"
 title_separator          : "-"
 name                     : &name "Iris Wan"
 description              : &description "Technical Writer"
